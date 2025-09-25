@@ -4,7 +4,7 @@
 <p>Este projeto foi desenvolvido como parte do curso da Alura, com o objetivo de praticar os primeiros passos em JavaScript, aliado a HTML e CSS.
 O jogo consiste em adivinhar um número secreto gerado aleatoriamente pelo programa, ajudando a fixar conceitos de lógica de programação, manipulação do DOM e interatividade na página.</p>
 
-## 🚀 Tecnologias
+<h2> 🚀 Tecnologias </h2>
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
